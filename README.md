@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java, C/C++/C#, and I'd be interested in jumping into Python at some point too.
 - 💞️ I’m looking to collaborate on an open-source project that attempts to solve problems that pique my interest.
 - 📫 How to reach me:
-    Phone: 514.792.1269
     email: stevemartella@gmail.com
 
 <!---
