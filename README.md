@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, C/C++/C#, and I'd be interested in jumping into Python at some point too.
 - 💞️ I’m looking to collaborate on an open-source project that attempts to solve problems that pique my interest.
 - 📫 How to reach me:
-    email: stevemartella@gmail.com
+- email: stevemartella@gmail.com
 
 <!---
 steve-martella/steve-martella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
